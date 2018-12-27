@@ -18,7 +18,7 @@
 
 　[参考官网](https://www.flowable.org/docs/userguide/index.html#getting.started.rest)
 
--   [下载Flowable6.4.0软件包](https://github.com/flowable/flowable-engine/releases/download/flowable-6.4.0/flowable-6.4.0.zip)
+-   [下载Flowable6.4.0软件包](https://github.com/flowable/flowable-engine/releases/download/flowable-6.4.0/tomcat-flowable-6.4.0.zip)
 
 - 解压
 - 将flowable-rest.war放在tomcat的webapp目录下
